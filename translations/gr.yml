@@ -1,11 +1,12 @@
-version: 1.1.0
+
+version: 1.1.1
 general: 
-  bd_searchbar: Rechercher ou entrer une adresse web
+  bd_searchbar: Αναζητήστε ή εισαγάγετε μια διεύθυνση ιστού
 cookie:
-  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
-  bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
-  bd_btn_accept: Accepter
-  bd_btn_more: Plus d'options
+  bd_usage: To Neron και οι συνεργάτες του χρησιμοποιούν cookies και παρόμοιες τεχνολογίες για την παροχή, ενημέρωση και βελτίωση των υπηρεσιών της.  
+  bd_consents: Εάν συμφωνείτε, θα χρησιμοποιήσουμε αυτά τα δεδομένα για σκοπούς προσαρμογής και έτσι θα πραγματοποιήσουμε εντελώς ανώνυμες αναλύσεις.
+  bd_btn_accept: Αποδοχή
+  bd_btn_more: Περισσότερες επιλογές
 login:
   bd_title: Σύνδεση
   bd_title: Χαίρομαι που σε βλέπω ξανά
