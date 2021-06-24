@@ -2,7 +2,7 @@ version: 1.1.0
 general: 
   bd_searchbar: Rechercher ou entrer une adresse web
 cookie:
-  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
+  bd_usage: Neronとその第三者プロバイダーは、サービスの提供、更新、改善のためにクッキーと同様の技術を使用しています。
   bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
   bd_btn_accept: Accepter
   bd_btn_more: Plus d'options
